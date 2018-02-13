@@ -11,6 +11,10 @@ namespace RadixSort
         static void Main(string[] args)
         {
             Console.WriteLine("aaaaaa");
+<<<<<<< HEAD
+=======
+            Console.Read();
+>>>>>>> master
 
         }
     }
