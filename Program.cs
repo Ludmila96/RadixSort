@@ -10,6 +10,8 @@ namespace RadixSort
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("aaaaa");
+
         }
     }
 }
